@@ -1,0 +1,40 @@
+* {
+    background-color:rgb(202, 202, 233);
+    color:aliceblue;
+}
+p {
+    font-family: 'Arial Narrow', Arial;
+    font-size: 24px;
+    color: black;
+}
+h1, h4{
+    color: black;
+    font-size: 30px;
+    font-style: normal;
+    text-decoration: underline;
+}
+h4 {
+    color: rgb(93, 123, 150);
+}
+img {
+    width: auto;
+    height: 300px;
+}
+h3 {
+    font-size: 36px;
+    font-family: 'Times New Roman', serif;
+    color: black;
+}
+a {
+    color: black;
+}
+li {
+    color: darkgreen;
+}
+p,
+h1,
+h4,
+h3,
+a {
+    text-align: center;
+}
